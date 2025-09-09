@@ -1,0 +1,20 @@
+Instructions! by Sam Hutchinson, updated 12/13/2023
+
+FOR EXPERIMENTERS:
+Run the function titled run_effloc and pass in the subject ID (string) and run number (integer 1-5). The effloc para files are saved as <subjID>_<runNum>_vis.para (for visual conditions) and <subjID>_<runNum>_aud.para (for audio conditions) in the /paras subdirectory. The logs for task accuracy are saved as log_<subjID>_<runNum>.mat in the /logs subdirectory.
+
+eg. >> run_effloc('subjID', 1)
+
+
+FOR PARTICIPANTS:
+Thank you for agreeing to be part of this experiment! Please let us know if at any point you feel uncomfortable in the scanner and need a break or would like to stop the experiment. Here is what's going to happen: we're going to get you set up and comfortable in the scanner before we start the experiment. Please let us know if there's anything we can do to make you more comfortable, because you will have to stay still for a while. Staying as still as possible is crucial! 
+
+You will see short movies of things like people, places, or objects, and at the same time you will hear short stories, arithmetic problems, or sequences of nonsense words that are all broken into two parts. This may seem confusing at first, but you will get used to it. The most important thing about this experiment are these auditory stimuli: please listen carefuly to these, as after each you will have to answer a question. You will hear an initial clip, then there will then be a brief pause and a second shorter clip. Your task is to decide if the second clip you hear goes with the first, or is a true continuation. 
+
+For the nonsense speech conditions, your task is to decide if the second clip is spoken by the same speaker or not. If the second clip is spoken by the same speaker, it is a true continuation. 
+
+There will also be stories in English such as the following: "A map of the town was made in 1990. The public library was built two years later... If you look at that map today, you will see the public library." After these trials, you will have to decide if the second clip is true or false. The example I just read would be a false continuation, as the map could not actually show the building built after the map's creation. 
+
+For the arithmetic problems, you will hear a sequence of operations followed by a suggested answer. If the given answer is correct, then it is a valid continuation. Otherwise, the continuation is false.
+
+If you think the second clip does match the first, or is true, then press the button on the left. Otherwise, press the button on the right. Make sure you fully understand the story before responding. You may feel that you do not have enough time to respond, but you will get used to the pace after a few trials. It is okay if you miss a few or answer incorrectly at first, as long as you are paying close attention.
