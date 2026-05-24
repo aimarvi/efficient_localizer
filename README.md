@@ -7,7 +7,7 @@ The stimuli used for the study are provided in the [stims](https://github.com/ai
 If you use EMFL or re-use parts of this repo, please cite as: 
 
 ```
-Marvi, A. I., Hutchinson, S., Fedorenko, E., Saxe, R. R., Kamps, F. S., Regev, T. I., Chen, E. M., & Kanwisher, N. G. (2025). An Efficient Multifunction fMRI Localizer for High-Level Visual, Auditory, and Cognitive Regions in Humans. (2026)
+Marvi, A. I., Hutchinson, S., Fedorenko, E., Saxe, R. R., Kamps, F. S., Regev, T. I., Chen, E. M., & Kanwisher, N. G. (2025). An Efficient Multifunction fMRI Localizer for High-Level Visual, Auditory, and Cognitive Regions in Humans.
 ```
 
 ## Usage
